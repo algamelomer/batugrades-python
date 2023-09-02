@@ -1,0 +1,3 @@
+Flask==2.0.1
+openpyxl==3.0.9
+# Add more dependencies as needed
