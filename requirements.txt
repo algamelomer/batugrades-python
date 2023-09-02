@@ -1,4 +1,4 @@
 Flask==2.0.1
 openpyxl==3.0.9
-gunicorn==20.1.1
+gunicorn==21.2.0
 # Add more dependencies as needed
