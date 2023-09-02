@@ -44,4 +44,4 @@ def grades():
     return render_template('index.html', message='Sitting number or college not found')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
